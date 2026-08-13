@@ -15,8 +15,8 @@
 To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The learning material introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
 
 * :o: Module 1: Decoded Mathematics Towards Cognition and Recognition from Data
-* :o: Module 2: Machine Learning Fundamentals.
-* :o: Module 3: Ocean of Deep of Learning and Generative AI.
+* :o: Module 2: Machine Learning Fundamentals Simplified.
+* :o: Module 3: Ocean of Deep of Learning and Generative AI Techniques
 * :o: Module 4: Large language Models and Retrieval Augmented Generation
 * :o: Module 5: Quantum Machine Learning Ideas and Future Directions
 
@@ -36,13 +36,12 @@ To provide a strong mathematical foundation for Information Technology, Artifici
 
 * :large_blue_circle: 
 
-## 🎯 Module 2: Machine Learning Fundamentals 🎯
+## 🎯 Module 2: Machine Learning Fundamentals Simplified 🎯
 ### Covers Fundamental learning techniques like Conventional ML Techniques, perceptrons and Neural Networks, 
 
 * :large_blue_circle:
 
-
-### 🎯 Module 3: Ocean of Deep of Learning and Generative AI 🎯
+### 🎯 Module 3: Ocean of Deep of Learning and Generative AI Techniques 🎯
 * :red_circle: , :red_circle: 
 
  
