@@ -32,12 +32,12 @@ To provide a strong mathematical foundation for Information Technology, Artifici
 ## 🗓️ Course Contents
 
 ## 🎯 Module 1: Decoded Mathematics Towards Cognition from Data 🎯
-### Covers Linear Algebra, Optimization and Probability and Statistics 
+#### Covers Linear Algebra, Optimization and Probability and Statistics 
 
 * :large_blue_circle: 
 
 ## 🎯 Module 2: Machine Learning Fundamentals Simplified 🎯
-### Covers Fundamental learning techniques like Conventional ML Techniques, perceptrons and Neural Networks, 
+#### Covers Fundamental learning techniques like Conventional ML Techniques, perceptrons and Neural Networks, 
 
 * :large_blue_circle:
 
