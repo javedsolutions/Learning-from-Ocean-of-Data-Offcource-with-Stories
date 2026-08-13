@@ -48,27 +48,35 @@ tions
 
 ## 🗓️ Course Contents
 
-### 🎯 Unit 1: Linear Algebra and Matrix Theory 🎯
+## 🎯 Module 1: Decoded Mathematics Towards Cognition from Data 🎯
+### Covers Linear Algebra, Optimization and Probability and Statistics 
 
-* :large_blue_circle: [Systems of Linear Equations](Unit_1_Linear_Algebra_and_Matrix_Theory/Systems-of-Linear-Equations.md), 
+* :large_blue_circle: 
+
+## 🎯 Module 2: Machine Learning Fundamentals 🎯
+### Covers Fundamental learning techniques like Conventional ML Techniques, perceptrons and Neural Networks, 
+
+* :large_blue_circle:
 
 
-### 🎯 Unit 2: Eigen Analysis and Matrix Decomposition 🎯
-* :large_blue_circle: [Eigenvalues and Eigenvectors, Characteristic Equations, Diagonalization of Matrices](Unit_2_Eigen_Analysis_and_Matrix_Decomposition/eigenvalues_eigenvectors_characteristic_equations_diagonalization.md)
-
-
-### 🎯 Unit 3:  Probability and Random Variables 🎯
-* :red_circle: [Events and Probability Spaces](Unit_3_Probability_and_Random_Variables/events_and_probability_spaces.md), :red_circle: [Conditional Probability](Unit_3_Probability_and_Random_Variables/conditional_probability.md), :red_circle: [Bayes’ Theorem, Independence of Events](Unit_3_Probability_and_Random_Variables/bayes_theorem_and_independence.md).
+### 🎯 Module 3: Ocean of Deep of Learning and Generative AI 🎯
+* :red_circle: , :red_circle: 
 
  
-### 🎯 Unit 4:  Stochastic Processes and Random Models 🎯
-* :red_circle: [Limit Theorems - Law of Large Numbers and Central Limit Theorem](Unit_4_Stochastic_Processes_and_Random_Models/limit_theorems_lln_clt.md). 
+### 🎯 Module 4: Large language Models and Retrieval Augmented Generation 🎯
+* :red_circle:
+
+
+### 🎯 Module 5: Quantum Machine Learning Ideas and Future Directions 🎯
+* :red_circle:
 
 ---
 
 ### 🗺️: Applications and Projects
 
-|💻 |  Applications |Project | Implementation Link |
+|💻 |  Projects | Description | Implementation Link |
 |:--- | :--- | :---: | :--- |
-|1.| Image Compression | SVD-Singular Value Decomposition |  [Python Code](Applications/image_compression.ipynb) |
+|1.| --- | --- | --- |
 
+---
+### 🗺️: References
