@@ -46,7 +46,7 @@ To provide a strong mathematical foundation for Information Technology, Artifici
 * :red_circle: , :red_circle: 
 
  
-## 🎯 Module 4: Large language Models and Retrieval Augmented Generation 🎯
+## 🎯 Module 4: LLMs/SLMs and Retrieval Augmented Generation 🎯
 
 * :red_circle:
 
