@@ -14,15 +14,11 @@
 ## 🎯 Learning Material Objectives and Outcome
 To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The learning material introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
 
-* :o: Understand and apply the principles of linear algebra, matrix operations, vector
-spaces, and transformations in computational and IT applications.
-* :o: Analyze systems of equations, eigenvalue problems, orthogonality, and matrix
-decompositions for data representation and optimization problems.
-* :o: Apply probability theory, random variables, distributions, and expectation con-
-cepts for uncertainty modeling and data-driven systems.
-* :o: Analyze stochastic processes, Markov chains, and random walks, and utilize
-mathematical reasoning for AI, machine learning, and information technology applica-
-tions
+* :o: Module 1: Decoded Mathematics Towards Cognition from Data
+* :o: Module 2: Machine Learning Fundamentals.
+* :o: Module 3: Ocean of Deep of Learning and Generative AI.
+* :o: Module 4: Large language Models and Retrieval Augmented Generation
+* :o: Module 5: Quantum Machine Learning Ideas and Future Directions
 
 ### Prerequisites (if any :thumbsup:, otherwise :x:)
 :white_check_mark: Introduction to Programming
