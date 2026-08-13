@@ -1,17 +1,17 @@
 ![Learning from Ocean of Data](LearningFromOceanOfData.png)
 # :classical_building: Learning-from-Ocean-of-Data-Offcource-with-Stories
-## Decoded and Simplified Mathematics, Machine Learning and Deep Learning or Artificial Intelligence in General
+### Decoded and Simplified Mathematics, Machine Learning and Deep Learning or Artificial Intelligence in General
 
 ---
 
 ## 👥 Instructor Information
-* **Instructor:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
+* **Edited By:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/)
 * **Email:** javed@iiita.ac.in
-* **Senior Teaching Assistants:** Mr. Apurba Chakraborty (rsi2024005@iiita.ac.in), Ms Aarthi Jha (rsi2025509@iiita.ac.in)
+* **PhD Students:** Mr. Apurba Chakraborty (rsi2024005@iiita.ac.in), Ms Aarthi Jha (rsi2025509@iiita.ac.in)
 
 ---
 
-## 🎯 Course Objectives and Outcome
+## 🎯 Learning Material Objectives and Outcome
 To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The course introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
 
 * :o: Understand and apply the principles of linear algebra, matrix operations, vector
@@ -49,15 +49,7 @@ tions
 ## 🗓️ Course Contents
 
 ### 🎯 Unit 1: Linear Algebra and Matrix Theory 🎯
-<!--
-* **Week 01: Introduction & Course Overview**
-  * *Topics:* Expectations, setup, and core terminology.
-  * *Readings:* Chapter 1.
-  * *Deliverable:* Assignment 0 (Setup Check).
-* **Week 02: Core Theoretical Frameworks**
-  * *Topics:* Understanding structural dynamics.
-  * *Readings:* Chapter 2.
--->
+
 * :large_blue_circle: [Systems of Linear Equations](Unit_1_Linear_Algebra_and_Matrix_Theory/Systems-of-Linear-Equations.md), 
 
 
