@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Learning Material Objectives and Outcome
-To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The course introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
+To provide a strong mathematical foundation for Information Technology, Artificial Intelligence, Machine Learning, Data Science, and related computing disciplines. The learning material introduces fundamental concepts of linear algebra, matrix theory, probability, stochastic processes, and optimization-oriented mathematical techniques with emphasis on analytical thinking, modeling, and problem solving for computational applications.
 
 * :o: Understand and apply the principles of linear algebra, matrix operations, vector
 spaces, and transformations in computational and IT applications.
@@ -27,19 +27,6 @@ tions
 ### Prerequisites (if any :thumbsup:, otherwise :x:)
 :white_check_mark: Introduction to Programming
 :white_check_mark: Basic Mathematics
-
----
-
-## 📦 Required Materials
-1. **Primary Textbook:**
-   * 📗 Gilbert Strang, Introduction to Linear Algebra, 6th Edition, Wellesley-Cambridge Press, 2023.
-   * 📗 Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability, 2nd Edition, Athena Scientific, 2008
-
-2.  **Reference Books:**
-   * :blue_book: Sheldon Axler, Linear Algebra Done Right, 3rd Edition, Springer, 2015.
-   * :blue_book: Athanasios Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochas-tic Processes, 4th Edition, McGraw-Hill Education, 2002.
-   * :blue_book: Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, Mathematics for MachineLearning, 1st Edition, Cambridge University Press, 2020.
-3.  💻**Software:** Access to [GitHub](https://github.com/javedsolutions) and a modern code editor (e.g., [VS Code Editor](https://code.visualstudio.com/Download)). or Use [Google Colab](https://colab.research.google.com/)
 
 ---
 
@@ -79,4 +66,16 @@ tions
 |1.| --- | --- | --- |
 
 ---
-### 🗺️: References
+## 📦 Reference Materials
+1. **Mathematics Primary Textbook:**
+   * 📗 Gilbert Strang, Introduction to Linear Algebra, 6th Edition, Wellesley-Cambridge Press, 2023.
+   * 📗 Dimitri P. Bertsekas and John N. Tsitsiklis, Introduction to Probability, 2nd Edition, Athena Scientific, 2008
+2.  **Mathematics Reference Books:**
+   * :blue_book: Sheldon Axler, Linear Algebra Done Right, 3rd Edition, Springer, 2015.
+   * :blue_book: Athanasios Papoulis and S. Unnikrishna Pillai, Probability, Random Variables and Stochas-tic Processes, 4th Edition, McGraw-Hill Education, 2002.
+   * :blue_book: Marc Peter Deisenroth, A. Aldo Faisal and Cheng Soon Ong, Mathematics for MachineLearning, 1st Edition, Cambridge University Press, 2020.
+3.  💻**Software:** Access to [GitHub](https://github.com/javedsolutions) and a modern code editor (e.g., [VS Code Editor](https://code.visualstudio.com/Download)). or Use [Google Colab](https://colab.research.google.com/)
+4. Hi
+
+
+---
