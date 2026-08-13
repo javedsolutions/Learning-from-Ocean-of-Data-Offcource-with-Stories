@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Instructor Information
-* **Content Edited By:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/) (Collection of Ideas I learnt from Others and simplified)
+* **Content Edited By:** [Dr. Mohammed Javed](https://sites.google.com/site/mohammedjaved2016/) (Collection of Ideas I learnt from Others and Simplified it ✍️ )
 * **Email:** javed@iiita.ac.in
 * **PhD Students:** Mr. Apurba Chakraborty (rsi2024005@iiita.ac.in), Ms Aarthi Jha (rsi2025509@iiita.ac.in)
 
