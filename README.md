@@ -1,4 +1,4 @@
-![Learning from Ocean of Data](LearningFromOceanOfData.png)
+![Learning from Ocean of Data](figures/LearningFromOceanOfData.png)
 # :classical_building: Learning-from-Ocean-of-Data-Offcource-with-Stories
 ### Decoded and Simplified Mathematics, Machine Learning and Deep Learning or Artificial Intelligence in General
 
