@@ -41,15 +41,18 @@ To provide a strong mathematical foundation for Information Technology, Artifici
 
 * :large_blue_circle:
 
-### 🎯 Module 3: Ocean of Deep of Learning and Generative AI Techniques 🎯
+## 🎯 Module 3: Ocean of Deep of Learning and Generative AI Techniques 🎯
+
 * :red_circle: , :red_circle: 
 
  
-### 🎯 Module 4: Large language Models and Retrieval Augmented Generation 🎯
+## 🎯 Module 4: Large language Models and Retrieval Augmented Generation 🎯
+
 * :red_circle:
 
 
-### 🎯 Module 5: Quantum Machine Learning Ideas and Future Directions 🎯
+## 🎯 Module 5: Quantum Machine Learning Ideas and Future Directions 🎯
+
 * :red_circle:
 
 ---
