@@ -17,7 +17,7 @@ To provide a strong mathematical foundation for Information Technology, Artifici
 * :o: Module 1: Decoded Mathematics Towards Cognition and Recognition from Data (Supported Python Code)
 * :o: Module 2: Machine Learning Fundamentals Simplified.
 * :o: Module 3: Ocean of Deep of Learning and Generative AI Techniques
-* :o: Module 4: Large language Models and Retrieval Augmented Generation
+* :o: Module 4: LLMs/SLMs and Retrieval Augmented Generation
 * :o: Module 5: Quantum Machine Learning Ideas and Future Directions
 
 ### Prerequisites (if any :thumbsup:, otherwise :x:)
